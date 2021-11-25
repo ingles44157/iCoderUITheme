@@ -1,0 +1,112 @@
+@media (max-width: 768px) {
+    /** propertie-section **/
+    .propertieImg h2 {
+        font-size: 25px;
+    }
+    /** counter **/
+    .mt-counter {
+        margin-top: 0px;
+        margin-right: 20px;
+    }
+    /** Presence **/
+    .prePadr {
+        padding-left: 0px;
+        padding-right: 15px !important;
+    }
+    /** footer-section **/
+    footer#footer {
+        padding: 30px 20px;
+    }
+    .footer-links {
+        padding: 20px 20px;
+    }
+    .rg-footer {
+        border-left: 0;
+        padding: 20px 20px;
+        border-top: 1px solid #c2c2c2;
+    }
+    button.footerBtn {
+        width: 255px;
+    }
+    /** about-section **/
+    .leftSlot {
+        margin-bottom: 30px;
+    }
+    .aboutTitle {
+        position: initial;
+        transform: initial;
+    }
+    .aboutSlot-Img {
+        width: 100%;
+        position: initial;
+    }
+    img.aboutSlotright-Img {
+        position: initial;
+        width: 100%;
+    }
+    .aboutTitleRight {
+        position: initial;
+        transform: initial;
+    }
+    section.coreValue {
+        margin-top: 20px;
+    }
+    .respPara {
+        width: 130px;
+    }
+    /** property-section **/
+    .marinaSlot img {
+        max-width: initial;
+    }
+    .contactBox {
+        background: #13294b;
+        color: #ffffff;
+        text-align: center;
+        width: 230px;
+        padding: 10px 20px;
+        position: absolute;
+        left: 70px;
+        top: -80px;
+        font-size: 12px;
+    }
+    .contactBox h2 {
+        font-size: 20px;
+        width: 200px !important;
+    }
+    /** disclosures-section **/
+    section.disclosures {
+        padding: 20px 20px;
+    }
+    .contentTab {
+        padding: 0;
+    }
+    .tab-vertical .nav-tabs .nav-link {
+        padding: 10px 10px;
+    }
+    .nav-item .fa-angle-right {
+        top: 13px;
+        right: 10px;
+        font-size: 20px;
+    }
+    .tab-content>.tab-pane {
+        display: none;
+        border-bottom: 0px !important;
+    }
+    .tab-content>.active {
+        display: block;
+    }
+    .tab-vertical .tab-content {
+        height: 342px;
+    }
+    .newsDiv .form-select {
+        width: 150px;
+    }
+}
+
+@media (min-width:600px) {}
+
+@media (max-width: 575px) {}
+
+@media (max-width: 420px) {}
+
+@media (max-width: 991px) {}
